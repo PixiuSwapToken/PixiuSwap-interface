@@ -21,20 +21,20 @@ const config: MenuEntry[] = [
       }
     ]
   },
-  {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: 'https://pixiuswap.finance/farms'
-  },
-  {
-    label: 'Nests',
-    icon: 'PoolIcon',
-    href: 'https://pixiuswap.finance/nests'
-  },
+  // {
+    // label: 'Farms',
+    // icon: 'FarmIcon',
+    // href: 'https://exchange.pixiuswap.finance/farms'
+  // },
+  // {
+    // label: 'Nests',
+    // icon: 'PoolIcon',
+    // href: 'https://exchange.pixiuswap.finance/nests'
+  // },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://pixiuswap.finance/lottery'
+  //   href: 'https://exchange.pixiuswap.finance/lottery'
   // },
   {
     label: 'Info',
@@ -84,7 +84,7 @@ const config: MenuEntry[] = [
   // {
     // label: 'Audit by Hacken',
     // icon: 'AuditIcon',
-    // href: 'https://pixiuswap.finance/files/hackenAudit.pdf',
+    // href: 'https://exchange.pixiuswap.finance/files/hackenAudit.pdf',
   // },
   // {
     // label: 'Audit by CertiK',
