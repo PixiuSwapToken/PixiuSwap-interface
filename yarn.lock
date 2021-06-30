@@ -3096,7 +3096,7 @@
 
 "@pancakeswap-libs/uikit@pixiuswap/pixiu-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/pixiuswap/pixiu-uikit/tar.gz/c69353c76449d4bcbf1d198018acd9d28b6e6b42"
+  resolved "https://codeload.github.com/pixiuswap/pixiu-uikit/tar.gz/e40469acda52e70bef592851b8b8956997c2eb01"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
